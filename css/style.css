@@ -695,4 +695,25 @@ section {
     font-size: 50%;
   }
 }
+
+.footer {
+  text-align: center;
+}
+
+.footer .links .btn {
+  margin: .5rem;
+}
+
+.footer .credit {
+  font-size: 2rem;
+  color: white;
+  text-transform: capitalize;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+.footer .credit span {
+  color: rgb(255, 196, 0);
+}
+
 /*# sourceMappingURL=style.css.map */
