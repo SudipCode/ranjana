@@ -69,7 +69,7 @@ section {
   font-size: 1.7rem;
   text-align: center;
   background: #fff;
-  color: rgb(220, 20, 120);
+  color: rgb(220, 20, 20);
   border-radius: 50%;
   margin-left: 1rem;
   -webkit-transition: .2s linear;
@@ -183,7 +183,7 @@ section {
 
 .home .content span {
   font-size: 3rem;
-  color: rgba(27, 20, 220, 0.623);
+  color: rgb(238, 255, 5);
   padding: .5rem 0;
   display: block;
 }
